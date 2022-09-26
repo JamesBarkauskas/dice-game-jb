@@ -8,4 +8,5 @@ Initial Usage:
 - npm install express
 - npm start
 
+Used Eric Pogues random dice roll function in dice game.
 
