@@ -10,6 +10,3 @@ function RollSixSidedDice2() {
 
 window.addEventListener("load", myInit, true);
 function myInit() {RollSixSidedDice1(), RollSixSidedDice2()}
-
-//window.addEventListener("load", myInit, true);
-// function myInit()
